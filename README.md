@@ -1,6 +1,6 @@
 # CreateJAR
 
-![jcinsanity](Screenshot001.PNG)
+![jcinsanity](Screenshot001.png)
 
 ##Code
 
